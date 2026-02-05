@@ -1,0 +1,20 @@
+sunmarket-catalogo/
+├── index.html
+├── css/
+│   ├── style.css
+│   ├── products.css      # Nuevo: Estilos específicos para productos
+│   ├── chatbot.css
+│   └── responsive.css
+├── js/
+│   ├── main.js
+│   ├── products.js       # Nuevo: Gestión de productos individuales
+│   ├── orders.js
+│   ├── chatbot.js
+│   └── utils.js
+├── assets/
+│   └── images/
+│       └── products/
+│           ├── individual/
+│           └── combos/
+└── data/
+    └── products.json     # Nuevo: Base de datos de productos
