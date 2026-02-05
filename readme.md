@@ -1,8 +1,8 @@
-# SUN MARKET - Catálogo Digital
+SUPERMARKET - Catálogo Digital
 
-Catálogo digital moderno para SUN MARKET, con integración de WhatsApp y chatbot automatizado.
+Catálogo digital moderno para SUPERMERCADO, con integración de WhatsApp y chatbot automatizado.
 
-## Características
+ Características
 
 - 🛒 Catálogo de productos con precios y descuentos
 - 💬 Chatbot inteligente para atención al cliente
@@ -10,5 +10,3 @@ Catálogo digital moderno para SUN MARKET, con integración de WhatsApp y chatbo
 - 🎨 Diseño responsivo y moderno
 - ⚡ Rápido y optimizado para SEO
 - 🔒 Sin dependencias externas (vanilla JavaScript)
-
-## Estructura del Proyecto
